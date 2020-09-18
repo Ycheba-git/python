@@ -7,3 +7,5 @@ b = int(number2/number3)
 print(a*b)
 
 input("\n\nEnter - выти")
+
+# комментарий 1
